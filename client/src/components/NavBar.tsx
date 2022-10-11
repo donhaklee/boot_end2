@@ -18,7 +18,7 @@ const NavBar: React.FC = () =>{
     return (
         <div className="fixed inset-x-0 top-0 z-10 flex items-center justify-between h-16 px-5 bg-white">
             <span className="text-2xl font-semibold text-blue-400">
-                <Link href="/">Community</Link>
+                <Link href="/">아이돌 </Link>
                 
             </span>
             
